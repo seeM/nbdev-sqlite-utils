@@ -5,5 +5,5 @@ website:
   title: "nbdev-sqlite-utils"
   site-url: "https://seeM.github.io/nbdev-sqlite-utils"
   description: "An experiment in porting sqlite-utils to nbdev"
-  repo-branch: master
+  repo-branch: main
   repo-url: "https://github.com/seeM/nbdev-sqlite-utils"
