@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://seeM.github.io/nbdev-sqlite-utils/index.html</loc>
+    <lastmod>2022-09-20T06:50:33.809Z</lastmod>
+  </url>
+  <url>
+    <loc>https://seeM.github.io/nbdev-sqlite-utils/rst2ipynb.html</loc>
+    <lastmod>2022-09-20T06:50:34.621Z</lastmod>
+  </url>
+  <url>
+    <loc>https://seeM.github.io/nbdev-sqlite-utils/python-api.html</loc>
+    <lastmod>2022-09-20T06:50:37.221Z</lastmod>
+  </url>
+</urlset>
